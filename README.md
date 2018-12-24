@@ -1,4 +1,6 @@
-﻿# Clean Code .NET / .NET Core
+Avoid using `underscore (_)` for properties!
+
+# Clean Code .NET / .NET Core
 
 ## Give a Star! :star:
 

@@ -1,4 +1,4 @@
-Avoid using `underscore (_)` for properties!
+Avoid using `underscore (_)` for properties, fields, methods,... for all names. STOP!
 
 # Clean Code .NET / .NET Core
 
